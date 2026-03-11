@@ -1,0 +1,10 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "my-second-static-web-app": {
+      "appLocation": "src",
+      "outputLocation": ".",
+      "dataApiLocation": "swa-db-connections"
+    }
+  }
+}
